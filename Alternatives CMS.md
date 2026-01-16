@@ -166,6 +166,13 @@
 ⚖️ MIT \
 💵 Free \
 
+ - [Decap](https://decapcms.org/) \
+📄 Java \
+⚙️ Statisch \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free \
+
  - [Django CMS](http://django-cms.org/) \
 📄 Python \
 ⚙️ SQL \
@@ -346,6 +353,13 @@
 ⚙️ SQL, SQLite \
 🇺🇳 Multilingual \
 ⚖️ GPL \
+💵 Free
+
+ - [LavaLite](https://lavalite.org/) \
+📄 PHP \
+⚙️ SQL \
+🇺🇳 Multilingual \
+⚖️ MIT \
 💵 Free
 
  - [Magnolia CMS](https://www.magnolia-cms.com/) \
