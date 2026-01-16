@@ -21,7 +21,7 @@
 
  - [bbPress](https://wordpress.org/plugins/bbpress/) \ 
 📄 PHP \
-⚙️ SQL / MariaDB \
+⚙️ SQL, MariaDB \
 🇺🇳 Multilingual \
 ⚖️ GPL \
 💵 Free
@@ -49,7 +49,7 @@
 
  - [DiangoBB](http://djangobb.org/) \
 📄 Python \
-⚙️ SQL / SQLite / PostgreSQL / Oracle \
+⚙️ SQL, SQLite, PostgreSQL, Oracle \
 🇺🇳 Multilingual \
 ⚖️ BSD \
 💵 Free
@@ -84,7 +84,7 @@
 
  - [Elkarte!](https://elkarte.github.io/Elkarte/) \
 📄 PHP \
-⚙️ SQL / SQLite / PostgreSQL \
+⚙️ SQL, SQLite, PostgreSQL \
 🇺🇳 Multilingual \
 ⚖️ CC BY-SA 3.0 \
 💵 Free
@@ -119,7 +119,7 @@
 
  - [Forumium](https://devaslanphp.github.io/forumium-docs/#/) \
 📄 PHP \
-⚙️ SQL / SQLite / PostgreSQL / MS SQL Server \
+⚙️ SQL, SQLite, PostgreSQL, MS SQL Server \
 🇺🇳 Multilingual \
 ⚖️ MIT \
 💵 Free
@@ -133,7 +133,7 @@
 
  - [FUDforum](https://github.com/fudforum/FUDforum) \ 
 📄 PHP \
-⚙️ SQL / SQLite / MariaDB / PostgreSQL / Oracle \
+⚙️ SQL, SQLite, MariaDB, PostgreSQL, Oracle \
 🇺🇳 Multilingual \
 ⚖️ GPL \
 💵 Free
@@ -147,14 +147,14 @@
 
  - [Ikonboard](https://web.archive.org/web/20160110044801/http://ikonboard.net/) \ 
 📄 Perl \
-⚙️ SQL / MariaDB \
+⚙️ SQL, MariaDB \
 🇺🇳 Multilingual \
 ⚖️ N/A \
 💵 Free
 
  - [Invision Power Board](https://invisioncommunity.com/) \ 
 📄 PHP \
-⚙️ SQL / MariaDB \
+⚙️ SQL, MariaDB \
 🇺🇳 Multilingual \
 ⚖️ Proprietary \
 💵 Paid from 89 $ to 549 $
@@ -280,7 +280,7 @@
 
  - [Syndie](https://github.com/i2p/i2p.syndie) \ 
 📄 Java \
-⚙️ SQL / MariaDB / PostgreSQL \
+⚙️ SQL, MariaDB, PostgreSQL \
 🇺🇳 Multilingual \
 ⚖️ BSD / MIT \
 💵 Free
