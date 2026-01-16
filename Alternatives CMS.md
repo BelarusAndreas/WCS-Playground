@@ -61,6 +61,13 @@
 ⚖️ MIT \
 💵 Free
 
+ - [BoidCMS](https://boidcms.github.io/#/) \
+📄 PHP \
+⚙️ Flat-File \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
  - [BrowserCMS](https://github.com/browsermedia/browsercms) \
 📄 Ruby on Rails \
 ⚙️ k./A. \
@@ -73,6 +80,13 @@
 ⚙️ SQL, Flat-File \
 🇺🇳 Multilingual \
 ⚖️ Mozilla Public License \
+💵 Free
+
+ - [CMS](https://github.com/CondationCMS/cms-server) \
+📄 Java \
+⚙️ Flat-File \
+🇺🇳 Multilingual \
+⚖️ GPL 3 \
 💵 Free
 
  - [CMSimple](https://www.cmsimple.org/) \
@@ -134,6 +148,13 @@
  - [Crafter CMS](https://craftercms.org/) \
 📄 Java \
 ⚙️ N/A \
+🇺🇳 Multilingual \
+⚖️ GPL 3 \
+💵 Free
+
+ - [Cuttlebelle](https://cuttlebelle.com/) \
+📄 HTML \
+⚙️ Statisch \
 🇺🇳 Multilingual \
 ⚖️ GPL 3 \
 💵 Free
@@ -213,6 +234,20 @@
 ⚙️ SQL, SQLite \
 🇺🇳 Multilingual \
 ⚖️ GPL 3 \
+💵 Free
+
+ - [Flextype](https://awilum.github.io/flextype/) \
+📄 PHP \
+⚙️ Flat-File \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
+ - [Flot](https://github.com/samthomson/flot/) \
+📄 PHP \
+⚙️ Statisch \
+🇺🇳 Multilingual \
+⚖️ MIT \
 💵 Free
 
  - [GetSimple CMS](http://get-simple.info/) \
@@ -341,6 +376,20 @@
 ⚖️ GPL 3 \
 💵 Free
 
+ - [MetalSmith](https://metalsmith.io/) \
+📄 Java \
+⚙️ Statisch \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
+ - [Middlemen](https://middlemanapp.com/) \
+📄 Ruby \
+⚙️ Statisch \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
  - [MODX](https://modx.com/) \
 📄 PHP \
 ⚙️ SQL \
@@ -355,6 +404,13 @@
 ⚖️ GPL 3 \
 💵 Free
 
+ - [Nanote](https://github.com/omarmir/nanote) \
+📄 Typescript \
+⚙️ Flat-File \
+🇺🇳 Multilingual \
+⚖️ AGPL 3 \
+💵 Free
+
  - [NanoCMS](https://nanocms.name/) \
 📄 PHP \
 ⚙️ Flat-File \
@@ -367,6 +423,20 @@
 ⚙️ SQL \
 🇺🇳 Multilingual \
 ⚖️ GPL \
+💵 Free
+
+ - [Nesta](https://nestacms.com/) \
+📄 Ruby \
+⚙️ Flat-File \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
+ - [Nibbleblog](https://github.com/dignajar/nibbleblog) \
+📄 PHP \
+⚙️ Flat-File \
+🇺🇳 Multilingual \
+⚖️ GPL 3.0 \
 💵 Free
 
  - [Nucleus CMS](http://nucleuscms.org/) \
@@ -390,11 +460,32 @@
 ⚖️ LGPL \
 💵 Free
 
+ - [Orbiter](https://github.com/kasparsd/orbiter) \
+📄 PHP \
+⚙️ Flat-File \
+🇺🇳 Multilingual \
+⚖️ N/A \
+💵 Free
+
+ - [Parvula](https://github.com/BafS/parvula) \
+📄 PHP \
+⚙️ Flat-File \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
  - [Papaya CMS](http://www.papaya-cms.com/) \
 📄 PHP \
 ⚙️ SQL, SQLite \
 🇺🇳 Multilingual \
 ⚖️ GPL \
+💵 Free
+
+ - [Pelican](https://getpelican.com/) \
+📄 Python \
+⚙️ Flat-File \
+🇺🇳 Multilingual \
+⚖️ AGPL 3.0 \
 💵 Free
 
  - [Phire CMS](https://www.phirecms.org/) \
@@ -444,6 +535,20 @@
 ⚙️ SQL \
 🇺🇳 Multilingual \
 ⚖️ GPL \
+💵 Free
+
+ - [Pluck CMS](https://github.com/pluck-cms/pluck) \
+📄 PHP \
+⚙️ Flat-File \
+🇺🇳 Multilingual \
+⚖️ N/A \
+💵 Free
+
+ - [PluXML](https://pluxml.org/) \
+📄 PHP \
+⚙️ Flat-File \
+🇺🇳 Multilingual \
+⚖️ GPL 3.0 \
 💵 Free
 
  - [ProcessWire](https://processwire.com/) \
@@ -516,6 +621,13 @@
 ⚖️ MIT \
 💵 Free
 
+ - [Singularity](https://archive.christophersu.net/2012/singularity-cms-single-php-file/) \
+📄 PHP \
+⚙️ Flat-File \
+🇺🇳 Englisch \
+⚖️ N/A \
+💵 Free
+
  - [Sitecake](https://sitecake.com/) \
 📄 PHP \
 ⚙️ Flat-File \
@@ -558,6 +670,13 @@
 ⚖️ GPL \
 💵 Free
 
+ - [Typemill](https://typemill.net/) \
+📄 Java \
+⚙️ Flat-File \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Kostenlos
+
  - [Typesetter](https://github.com/Typesetter/Typesetter) \
 📄 PHP \
 ⚙️ Flat-File \
@@ -577,6 +696,13 @@
 ⚙️ Statisch \
 🇺🇳 N/A \
 ⚖️ AGPL 3 \
+💵 Free
+
+ - [Vodka](https://github.com/deseven/Vodka) \
+📄 PHP \
+⚙️ Flat-File \
+🇺🇳 N/A \
+⚖️ Public Domain \
 💵 Free
 
  - [Winter CMS](https://wintercms.com/) \
