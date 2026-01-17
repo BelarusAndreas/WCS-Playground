@@ -12,6 +12,13 @@
 ⚖️ Apache 2.0 \
 💵 Free
 
+ - [Anchor CMS](https://github.com/anchorcms/anchor-cms) \
+📄 PHP \
+⚙️ SQL, SQLite \
+🇺🇳 Multilingual \
+⚖️ GPL 3.0 \
+💵 Free
+
  - [Apache Lenya](https://lenya.apache.org/) \
 📄 Java \
 ⚙️ N/A \
@@ -19,11 +26,25 @@
 ⚖️ Apache \
 💵 Free \
 
+ - [AsgardCMS](https://github.com/AsgardCms/Platform) \
+📄 PHP \
+⚙️ SQL, PostgreSQL, MS SQL-Server \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free \
+
  - [Automad](https://automad.org/) \
 📄 PHP \
 ⚙️ Flat-File \
 🇺🇳 Multilingual \
 ⚖️ MIT \
+💵 Free
+
+ - [Awesome CMS](https://github.com/SaiGonSoftware/Awesome-CMS-Core) \
+📄 C# \
+⚙️ SQLite \
+🇺🇳 Multilingual \
+⚖️ Apache 2 \
 💵 Free
 
  - [Backdrop CMS](https://backdropcms.org/) \
@@ -65,6 +86,27 @@
 📄 PHP \
 ⚙️ Flat-File \
 🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
+ - [Bolt](https://github.com/bolt/project) \
+📄 PHP \
+⚙️ SQL, SQLite, MariaDB PostgreSQL \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
+ - [BootstrapCMS](https://github.com/bolt/project) \
+📄 PHP \
+⚙️ SQL, SQLite, PostgreSQL, MS SQL-Server \
+🇺🇳 Multilingual \
+⚖️ AGPL 3.0 \
+💵 Free
+
+ - [BorgertCMS](https://github.com/borgert-inc/borgert-cms) \
+📄 PHP \
+⚙️ SQL, SQLite, PostgreSQL, MS SQL-Server \
+🇺🇳 English, Portuguese, Spanish, Chinese \
 ⚖️ MIT \
 💵 Free
 
@@ -124,6 +166,13 @@
 ⚖️ MIT \
 💵 Free
 
+ - [Cockpit CMS](https://getcockpit.com/) \
+📄 JavaScript \
+⚙️ SQLite, MongoDB \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
  - [Composr CMS](http://compo.sr/) \
 📄 PHP \
 ⚙️ N/A \
@@ -145,11 +194,39 @@
 ⚖️ LGPL \
 💵 Free
 
+ - [Contember](https://www.contember.com/) \
+📄 Typescript \
+⚙️ N/A \
+🇺🇳 Multilingual \
+⚖️ Apache 2.0 \
+💵 Free
+
+ - [Contenta CMS](https://www.contentacms.org/) \
+📄 PHP \
+⚙️ Statisch \
+🇺🇳 Multilingual \
+⚖️ GPL 2.0 \
+💵 Free
+
+ - [Craft CMS]([https://github.com/craftcms/cms) \
+📄 PHP \
+⚙️ SQL, PostgreSQL \
+🇺🇳 Multilingual \
+⚖️ Craft CMS Licence \
+💵 Free
+
  - [Crafter CMS](https://craftercms.org/) \
 📄 Java \
 ⚙️ N/A \
 🇺🇳 Multilingual \
 ⚖️ GPL 3 \
+💵 Free
+
+ - [Croogo](https://croogo.org/) \
+📄 PHP \
+⚙️ SQL \
+🇺🇳 Multilingual \
+⚖️ MIT \
 💵 Free
 
  - [Cuttlebelle](https://cuttlebelle.com/) \
@@ -171,6 +248,13 @@
 ⚙️ Statisch \
 🇺🇳 Multilingual \
 ⚖️ MIT \
+💵 Free \
+
+ - [Directus](https://directus.io/) \
+📄 Typescript \
+⚙️ SQL, SQLite, MariaDB, Oracle, CockroachDB, MS SQL-Server \
+🇺🇳 Multilingual \
+⚖️ GPL 3, Business Source License 1.1 \
 💵 Free \
 
  - [Django CMS](http://django-cms.org/) \
@@ -257,6 +341,20 @@
 ⚖️ MIT \
 💵 Free
 
+ - [Fork CMS](https://www.fork-cms.com/) \
+📄 PHP \
+⚙️ N/A \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
+ - [Fuel CMS](https://www.getfuelcms.com/) \
+📄 PHP \
+⚙️ SQL \
+🇺🇳 Multilingual \
+⚖️ Apache 2 \
+💵 Free
+
  - [GetSimple CMS](http://get-simple.info/) \
 📄 PHP \
 ⚙️ Flat-File \
@@ -334,12 +432,26 @@
 ⚖️ GPL 2 \
 💵 Free
 
+ - [Kaliko CMS](https://github.com/KalikoCMS/KalikoCMS.Core) \
+📄 C# \
+⚙️ SQL, SQLite, MariaDB, PostgreSQL, Firebird, Oracle, MS SQL-Server, Sybase SQL Anywhere, Vista \
+🇺🇳 Multilingual \
+⚖️ Apache 2 \
+💵 Free
+
  - [Kentico CMS](http://www.kentico.com/) \
 📄 .NET \
 ⚙️ SQL \
 🇺🇳 Multilingual \
 ⚖️ Kentico License \
 💵 Free -& Paid 2.490 $
+
+ - [Ketchup](https://github.com/ketchuphq/ketchup) \
+📄 Go \
+⚙️ N/A \
+🇺🇳 Multilingual \
+⚖️ Apache 2.0 \
+💵 Free
 
  - [Kirby](https://getkirby.com/) \
 📄 PHP \
@@ -360,6 +472,13 @@
 ⚙️ SQL \
 🇺🇳 Multilingual \
 ⚖️ MIT \
+💵 Free
+
+ - [Lector](https://www.getlektor.com/) \
+📄 Python \
+⚙️ Statisch \
+🇺🇳 Multilingual \
+⚖️ BSD 3 \
 💵 Free
 
  - [Magnolia CMS](https://www.magnolia-cms.com/) \
@@ -393,6 +512,13 @@
  - [MetalSmith](https://metalsmith.io/) \
 📄 Java \
 ⚙️ Statisch \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
+ - [Microweber](https://microweber.org/) \
+📄 PHP \
+⚙️ SQL, SQLite \
 🇺🇳 Multilingual \
 ⚖️ MIT \
 💵 Free
@@ -474,11 +600,32 @@
 ⚖️ LGPL \
 💵 Free
 
+ - [Orchard](https://orchardcore.net/) \
+📄 C# \
+⚙️ SQL, MS SQL_Server \
+🇺🇳 Multilingual \
+⚖️ BSD 3 \
+💵 Free
+
  - [Orbiter](https://github.com/kasparsd/orbiter) \
 📄 PHP \
 ⚙️ Flat-File \
 🇺🇳 Multilingual \
 ⚖️ N/A \
+💵 Free
+
+ - [Pagekit CMS](https://github.com/pagekit/pagekit) \
+📄 PHP \
+⚙️ Statisch \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
+ - [Pages CMS](https://pagescms.org/) \
+📄 Typescript \
+⚙️ Statisch \
+🇺🇳 Multilingual \
+⚖️ MIT \
 💵 Free
 
  - [Parvula](https://github.com/BafS/parvula) \
@@ -493,6 +640,13 @@
 ⚙️ SQL, SQLite \
 🇺🇳 Multilingual \
 ⚖️ GPL \
+💵 Free
+
+ - [Paylaod CMS](https://github.com/payloadcms/payload) \
+📄 Typescript \
+⚙️ N/A \
+🇺🇳 Multilingual \
+⚖️ MIT \
 💵 Free
 
  - [Pelican](https://getpelican.com/) \
@@ -551,6 +705,13 @@
 ⚖️ GPL \
 💵 Free
 
+ - [Plone CMS](https://plone.org/) \
+📄 Python \
+⚙️ N/A \
+🇺🇳 Multilingual \
+⚖️ GPL 2.0 \
+💵 Free
+
  - [Pluck CMS](https://github.com/pluck-cms/pluck) \
 📄 PHP \
 ⚙️ Flat-File \
@@ -565,11 +726,25 @@
 ⚖️ GPL 3.0 \
 💵 Free
 
+ - [Prime](https://github.com/birkir/prime) \
+📄 Typescript \
+⚙️ PostgreSQL \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
  - [ProcessWire](https://processwire.com/) \
 📄 PHP \
 ⚙️ SQL \
 🇺🇳 Multilingual \
 ⚖️ Mozilla Public License 2.0 \
+💵 Kostenlos
+
+ - [Prose](https://prose.io/) \
+📄 JavaSript \
+⚙️ Statisch \
+🇺🇳 Multilingual \
+⚖️ BSD 3.0 \
 💵 Kostenlos
 
  - [Pulse CMS](https://www.pulsecms.com/) \
@@ -582,6 +757,13 @@
  - [Puppy CMS](http://www.puppycms.com/) \
 📄 PHP \
 ⚙️ Flat-File \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
+ - [Pyro CMS](https://pyrocms.com/) \
+📄 PHP \
+⚙️ Statisch \
 🇺🇳 Multilingual \
 ⚖️ MIT \
 💵 Free
@@ -607,6 +789,13 @@
 ⚖️ MIT \
 💵 Free
 
+ - [Relax](ttps://github.com/relax/relax) \
+📄 JavaScript \
+⚙️ N/A \
+🇺🇳 Multilingual \
+⚖️ GPL 3 \
+💵 Free
+
  - [RespondCMS](https://respondcms.com/) \
 📄 PHP \
 ⚙️ Flat-File \
@@ -619,6 +808,13 @@
 ⚙️ Statisch \
 🇺🇳 N/A \
 ⚖️ MIT \
+💵 Free
+
+ - [Serendipity](https://docs.s9y.org/) \
+📄 PHP \
+⚙️ SQL, SQLite, MariaDB, PostgreSQL \
+🇺🇳 Multilingual \
+⚖️ BSD 3.0 \
 💵 Free
 
  - [SilverStripe](http://www.silverstripe.org/) \
@@ -670,11 +866,39 @@
 ⚖️ N/A \
 💵 Free
 
+ - [Sulu](https://github.com/sulu/sulu-standard) \
+📄 PHP \
+⚙️ SQL, SQLite, MariaDB, PostgreSQL, Oracle, MS SQL-Server, Sybase SQL \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
  - [Textpattern](https://textpattern.com/) \
 📄 PHP \
 ⚙️ SQL \
 🇺🇳 Multilingual \
 ⚖️ GPL 2 \
+💵 Free
+
+ - [Tina](https://tina.io/) \
+📄 Typescript \
+⚙️ Statisch \
+🇺🇳 Multilingual \
+⚖️ Apache 2.0 \
+💵 Free
+
+ - [Thelia](https://thelia.net/) \
+📄 PHP \
+⚙️ SQL \
+🇺🇳 Multilingual \
+⚖️ GPL 3.0 \
+💵 Free
+
+ - [Twill CMS](https://twillcms.com/) \
+📄 PHP \
+⚙️ N/A \
+🇺🇳 Multilingual \
+⚖️ Apache 2.0 \
 💵 Free
 
  - [TYPO3](https://typo3.org/) \
@@ -701,6 +925,13 @@
  - [Umbraco](http://www.umbraco.com/) \
 📄 .NET \
 ⚙️ SQL \
+🇺🇳 Multilingual \
+⚖️ MIT \
+💵 Free
+
+ - [Unite CMS](https://www.unite.co.at/) \
+📄 PHP \
+⚙️ N/A \
 🇺🇳 Multilingual \
 ⚖️ MIT \
 💵 Free
