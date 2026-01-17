@@ -285,6 +285,13 @@
 ⚖️ MIT \
 💵 Free
 
+ - [Dotlear](https://dotclear.org/) \
+📄 PHP \
+⚙️ Statisch \
+🇺🇳 Multilingual \
+⚖️ AGPL 3 \
+💵 Free
+
  - [DotCMS](https://www.dotcms.com/) \
 📄 Java \
 ⚙️ k./A. \
@@ -304,6 +311,13 @@
 ⚙️ SQL, SQLite \
 🇺🇳 Multilingual \
 ⚖️ GPL \
+💵 Free
+
+ - [DSpace](https://dspace.org/) \
+📄 PHP \
+⚙️ N/A \
+🇺🇳 Multilingual \
+⚖️ BSD 3.0 \
 💵 Free
 
  - [Exponent CMS](http://www.exponentcms.org/) \
@@ -367,6 +381,13 @@
 ⚙️ SQL \
 🇺🇳 Multilingual \
 ⚖️ Apache 2 \
+💵 Free
+
+ - [Geeklog](https://www.geeklog.net/) \
+📄 PHP \
+⚙️ SQL, PostgreSQL \
+🇺🇳 Multilingual \
+⚖️ GPL \
 💵 Free
 
  - [GetSimple CMS](http://get-simple.info/) \
@@ -558,11 +579,25 @@
 ⚖️ MIT \
 💵 Free
 
+ - [MojoPortal](http://www.mojoportal.com/) \
+📄 C# \
+⚙️ SQL, SQLite, PortgreSQL, MS SQL-Server, SqlAzure \
+🇺🇳 Multilingual \
+⚖️ EPL \
+💵 Free
+
  - [MODX](https://modx.com/) \
 📄 PHP \
 ⚙️ SQL \
 🇺🇳 Multilingual \
 ⚖️ GPL 2 \
+💵 Free
+
+ - [Movable Type](http://movabletype.org/) \
+📄 Perl \
+⚙️ SQL \
+🇺🇳 Multilingual \
+⚖️ N/A \
 💵 Free
 
  - [MoziloCMS](http://cms.mozilo.de/) \
@@ -607,6 +642,13 @@
 ⚖️ GPL 3.0 \
 💵 Free
 
+ - [Novius OS](https://github.com/novius-os/novius-os) \
+📄 PHP \
+⚙️ SQL \
+🇺🇳 Multilingual \
+⚖️ AGPL 3.0 \
+💵 Free
+
  - [Nucleus CMS](http://nucleuscms.org/) \
 📄 PHP \
 ⚙️ SQL \
@@ -621,11 +663,25 @@
 ⚖️ Proprietär \
 💵 Free & Paid 29 $
 
+ - [Omeka](https://omeka.org/) \
+📄 PHP \
+⚙️ SQL, MariaDB \
+🇺🇳 Multilingual \
+⚖️ GPL 3.0 \
+💵 Free
+
  - [OpenCMS](http://www.opencms.org/de/) \
 📄 Java \
 ⚙️ N/A \
 🇺🇳 Multilingual \
 ⚖️ LGPL \
+💵 Free
+
+ - [OpenKM](https://www.openkm.com/) \
+📄 Java \
+⚙️ SQL, MariaDB, PostgreSQL, Oracle, MS SQL-Server, and others \
+🇺🇳 Multilingual \
+⚖️ GPL 2.0 \
 💵 Free
 
  - [Orchard](https://orchardcore.net/) \
