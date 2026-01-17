@@ -5,6 +5,13 @@
 ⚖️ GPL 3 \
 💵 Free
 
+ - [Alfresco](https://ajaxcms.org/) \
+📄 Typescript \
+⚙️ SQL, MariaDB, PostgreSQL, Oracle, MS SQL-Server  \
+🇺🇳 Multilingual \
+⚖️ LGPL 3 \
+💵 Free
+
  - [Ametys CMS](http://www.ametys.org/) \
 📄 Java \
 ⚙️ JSR-170 \
@@ -45,6 +52,13 @@
 ⚙️ SQLite \
 🇺🇳 Multilingual \
 ⚖️ Apache 2 \
+💵 Free
+
+ - [B2Evolution](https://b2evolution.net/) \
+📄 PHP \
+⚙️ SQL \
+🇺🇳 Multilingual \
+⚖️ GPL 2 \
 💵 Free
 
  - [Backdrop CMS](https://backdropcms.org/) \
@@ -418,6 +432,13 @@
 ⚖️ Inline CMS License \
 💵 Free
 
+ - [Jamroom](https://www.jamroom.net/) \
+📄 PHP \
+⚙️ SQL, MariaDB, Percona Server \
+🇺🇳 Englisch \
+⚖️ MPL \
+💵 Free
+
  - [Jekyll](https://jekyllrb.com/) \
 📄 PHP \
 ⚙️ Flat-File \
@@ -523,6 +544,13 @@
 ⚖️ MIT \
 💵 Free
 
+ - [Midgard CMS](http://www.midgard-project.org/) \
+📄 PHP \
+⚙️ N/A \
+🇺🇳 Multilingual \
+⚖️ LGPL \
+💵 Free
+
  - [Middlemen](https://middlemanapp.com/) \
 📄 Ruby \
 ⚙️ Statisch \
@@ -593,7 +621,7 @@
 ⚖️ Proprietär \
 💵 Free & Paid 29 $
 
- - [OpenCms](http://www.opencms.org/de/) \
+ - [OpenCMS](http://www.opencms.org/de/) \
 📄 Java \
 ⚙️ N/A \
 🇺🇳 Multilingual \
@@ -663,6 +691,13 @@
 ⚖️ BSD License \
 💵 Free
 
+ - [PHP-Fusion](https://php-fusion.co.uk/) \
+📄 PHP \
+⚙️ SQL, MariaDB \
+🇺🇳 Multilingual \
+⚖️ AGPL \
+💵 Free
+
  - [PHP-Nuke](http://www.phpnuke-service.de/) \
 📄 PHP \
 ⚙️ SQL \
@@ -682,6 +717,13 @@
 ⚙️ Flat-File \
 🇺🇳 Multilingual \
 ⚖️ MIT \
+💵 Free
+
+ - [Pixi](http://www.getpixie.co.uk/) \
+📄 PHP \
+⚙️ SQL \
+🇺🇳 Multilingual \
+⚖️ GPL \
 💵 Free
 
  - [PieCrust](https://bolt80.com/piecrust/) \
