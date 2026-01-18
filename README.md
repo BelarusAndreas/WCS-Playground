@@ -25,6 +25,9 @@ There will be no more support for any files on  ~~[WCS-Playground.ru](https://wc
 ### 💡Ideas
 If you have some ideas or want to add something so please start a [discussion on GitHub](https://github.com/BelarusAndreas/WCS-Playground/discussions/) or [contact me](mailto:wcs.playground.ru@gmail.com).
 
+### 🔍 Searching for other systems?
+If you're searching for other systems, so please have a look on my other repositorys like [Content-Management-Systems](https://github.com/BelarusAndreas/Content-Management-Systems) and [Forums](https://github.com/BelarusAndreas/Forums)
+
 ### 🔩 To-Do's
 🔸Add new Core-Packages if there will be new releases \
 🔸Add manuals for any Core-Packages in different languages \
