@@ -20,13 +20,13 @@ Find more than 500 files for the WoltLab Burning Board and the WoltLab Suite, su
 🔸and much more 😊
 
 ### 🧑‍💼 Support
-There will be no more support for any files on  ~~[WCS-Playground.ru](https://wcs-playground.ru/)~~. Any files comes with a step by step instruction so you can easy embedd it into your WoltLab Burning Board and the WoltLab Suite. For any questions feel free to start a [discussion on GitHub](https://github.com/BelarusAndreas/WCS-Playground/discussions/). 
+There will be no more support for any files on  ~~[WCS-Playground.ru](https://wcs-playground.ru/)~~. Any files comes with a step by step instruction so you can easy embedd it into your WoltLab Burning Board and the WoltLab Suite. For any questions feel free to start a [discussion on GitHub](https://github.com/BelarusAndreas/WCS-Playground/discussions/) or visit the new project under [Ext-Repo](https://ext-repo.ru) 
 
 ### 💡Ideas
 If you have some ideas or want to add something so please start a [discussion on GitHub](https://github.com/BelarusAndreas/WCS-Playground/discussions/) or [contact me](mailto:wcs.playground.ru@gmail.com).
 
 ### 🔍 WoltLab isn't yours?
-If you're searching for other systems, so please have a look on my other repositorys like [Content-Management-Systems](https://github.com/BelarusAndreas/Content-Management-Systems) and [Forums](https://github.com/BelarusAndreas/Forums)
+If you're searching for other systems, so please have a look on my other repositorys like [Content-Management-Systems](https://github.com/BelarusAndreas/Content-Management-Systems) and [Forums](https://github.com/BelarusAndreas/Forums) or visit the new project under [Ext-Repo](https://ext-repo.ru).
 
 ### 🔩 To-Do's
 🔸Add new core-packages if there will be new releases \
