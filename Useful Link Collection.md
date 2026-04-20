@@ -1,4 +1,4 @@
-**Woltlab Stile und Plugins**
+**Woltlab Styles und Plugins**
 
  - [Woltlab](https://www.woltlab.com/de/)
  - [Softcreatr](https://softcreatr.dev/)
@@ -62,7 +62,7 @@ Hacks und Stile
  - [Rellek](https://rellek.org/)
 Hacks und Stile
 
-**Font-Awesome Alternativen**
+**Font-Awesome Alternatives**
 
  - [Line Icons](https://lineicons.com/)
  - [Material Design Icons](https://materialdesignicons.com/)
@@ -81,7 +81,7 @@ Hacks und Stile
  - [Fa2png](https://fa2png.app/)
  - [Flaticons](https://www.flaticon.com/de/packs)
 
-### Public-Domain Bilder
+### Public-Domain Imaages
 
  - [Pixabay](https://pixabay.com/)
  - [PublicDomainPictures](https://www.publicdomainpictures.net/)
@@ -103,7 +103,7 @@ Hacks und Stile
  - [Videezy](https://de.videezy.com/)
  - [Coverr](https://coverr.co/)
 
-### Generatoren
+### Generators
 
  - [Colorzilla](https://www.colorzilla.com/gradient-editor/)
  - [CSS3Generator](https://css3generator.com/)
@@ -117,17 +117,17 @@ Hacks und Stile
  - [Shapedivider](https://www.shapedivider.app/)
  - [Canva](https://www.canva.com/de_de/)
 
-**Bild-Konverter**
+**Bild-Converters**
  - [Base64](http://188.166.33.51/)
  - [Base64NoiseGenerator](https://codeblock.at/base64-noise-generator/)
 
-**CSS-Konverter**
+**CSS-Converters**
 
  - [PurifyCSS](https://purifycss.online/)
  - [Uncss-online.com](https://uncss-online.com/)
  - [FreeFormatter](https://www.freeformatter.com/css-beautifier.html)
 
-**Screenshot Generatoren**
+**Screenshot Generators**
 
  - [Site-Shot.com](https://www.site-shot.com/)
  - [Page2Images](https://www.page2images.com/URL-Live-Website-Screenshot-Generator)
@@ -141,7 +141,7 @@ Hacks und Stile
  - [Smilies.4-User](https://www.smilies.4-user.de/)
  - [Smiliemania](https://www.smiliemania.de/)
 
-**Placeholder & Lorem Ipsum Generatoren**
+**Placeholder & Lorem Ipsum Generators**
 
  - [Logoipsum.com](https://logoipsum.com/)
  - [Uilogos.co](https://uilogos.co/)
