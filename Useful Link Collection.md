@@ -1,6 +1,6 @@
 **Woltlab Styles und Plugins**
 
- - [Woltlab](https://www.woltlab.com/de/)
+ - [WoltLab](https://www.woltlab.com/de/)
  - [Softcreatr](https://softcreatr.dev/)
 Plugins
  - [VieCode](https://www.viecode.com/)
