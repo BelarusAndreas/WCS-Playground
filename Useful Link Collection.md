@@ -18,49 +18,49 @@ Plugins
  - [WCFLabs](https://wcflabs.de/)
 Plugins
  - [KittMedia](https://kittmedia.com/)
-Plugins und Stile
+Plugins und Styles
  - [CLS-Design](https://www.cls-design.com/)
-Plugins und Stile
+Plugins und Styles
  - [Warly](https://warly.de/)
-Plugins und Stile
+Plugins und Styles
  - [Powerstylez](https://www.powerstylez.de/)
-Stile
+Styles
  - [Elevenfour](https://elevenfour.net/)
-Stile
+Styles
  - [SK-Designz](https://sk-designz.de/)
-Stile
+Styles
  - [Forostyle](https://forostyle.com/)
-Stile
+Styles
  - [Kleckserstuebchen](https://forum.kleckserstuebchen.de/)
-Stile
+Styles
  - [DragNord](https://dragnord.com/)
-Stile
+Styles
  - [WBB-Elite](https://www.wbb-elite.de/)
-Plugins und Stile
+Plugins und Styles
  - [Grischamedia](https://grischamedia.ch/)
-Plugins und Stile
+Plugins und Styles
  - [Tims Bastelstube](https://tims.bastelstu.be/)
 Plugins
  - [Sonlong-Community](https://sonlong-community.de/)
 Plugins
  - [WBB-Support](https://wbbsupport.de/)
-Plugins und Stile
+Plugins und Styles
  - [Your-WBB](https://your-wbb.de/home.php)
-Plugins und Stile
+Plugins und Styles
  - [Lostis-World](https://www.lostis-world.net/)
 Grafiken
  - [Grafix Board](http://www.grafix-board.de/)
-Hacks, Stile und Grafiken
+Hacks, Styles und Graphics
  - [Haumis WBB Hilfe](https://haumis-wbb-hilfe.de.w0120949.kasserver.com/)
-Hacks und Stile
+Hacks und Styles
  - [Hacks4WBB](https://hacks4wbb.de/board.php?boardid=406&sid=ba348906dad129c3efecfb02098fa5d3)
-Hacks und Stile
+Hacks und Styles
  - [WBB Coder Forum](http://www.wbbcoderforum.de/)
-Hacks und Stile
+Hacks und Styles
  - [Viktors Supportboard](https://www.v-gn.de/wbb/login.php)
-Hacks und Stile
+Hacks und Styles
  - [Rellek](https://rellek.org/)
-Hacks und Stile
+Hacks und Styles
 
 **Font-Awesome Alternatives**
 
