@@ -1,5 +1,8 @@
+
 # WCS-Playground
 Cores, Plugins, Styles, Boxes, Sites, BBCodes, Menus, Templates and much more for the [WoltLab](https://Woltlab.com) Burning Board and WoltLab Suite. Formerly known as ~~[WCS-Playground.ru](https://WCS-Playground.ru)~~ and now completely free for everyone on [GitHub]([https://github.com/BelarusAndreas/WoltLab](https://github.com/BelarusAndreas/WCS-Playground)).
+ 
+WCS-Playground or even this repository does not have the same as [WCS-Playground.de](https://wcs-playground.de) and also expressly distance themselves from the site, the owner, as well as the benefit of the site! Everything that is offered there for a fee is for the most part stolen, including from here, and can be downloaded and used here for free. Don't waste your money on what you can get for free
 
 Find more than 500 files for the WoltLab Burning Board and the WoltLab Suite, such as: 
 
